@@ -18,7 +18,7 @@ Create a program to find every phone number and email address in a long web page
 * Display some kind of message if no matches were found in the text.
 
 **Ideas for Similar Programs:**
-- [x] Find website URLs that begins with *http://* or *https://* (Still needs some edits but marking as done for now)
-- [ ] Clean up dates in different date formats (such as 3/14/15, 03-14-15, and 2015/3/14) by replacing them with dates in a single, standard format.
-- [ ] Remove sensitive information such as Social Security or credit card numbers.
-- [ ] Find common typos sucha as multiple  spaces between  words, accidentally accidentally repeated words, or multiple exclamation marks at the end of sentences. Those are annoying!!
+- Find website URLs that begins with *http://* or *https://*
+- Clean up dates in different date formats (such as 3/14/15, 03-14-15, and 2015/3/14) by replacing them with dates in a single, standard format.
+- Remove sensitive information such as Social Security or credit card numbers.
+- Find common typos sucha as multiple  spaces between  words, accidentally accidentally repeated words, or multiple exclamation marks at the end of sentences. Those are annoying!!
